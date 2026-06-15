@@ -3,3 +3,5 @@ public class SecondClass {
         System.out.print("Hello Tim");
     }
 }
+
+// Just practising the basics

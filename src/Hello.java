@@ -55,7 +55,7 @@ public class Hello {
         double remainder1 = step3 % 40.00;
 
         boolean bool1 = (remainder1 != 0.00) ? false : true;
-        // The instructions was worded in a clumsy way, otherwise this would've been more straightforward.
+        // The instructions was worded in a clumsy way, otherwise this would've been more straightforward..
 
         if (bool1) {
             System.out.println("There is no remainder");
