@@ -1,7 +1,5 @@
-public class FirstClass {
+public class SecondClass {
     public static void main(String[] args) {
         System.out.print("Hello Tim");
     }
 }
-// Hello World Success!!
-// Hello world is now "Hello Tim"
